@@ -1,2 +1,2 @@
 # student-apnaCollege
-author iqra
+author iqra (apna college)
